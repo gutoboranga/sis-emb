@@ -1,0 +1,7 @@
+size -> Capacity
+assoc -> Associativity
+tag_latency -> Tag lookup latency
+data_latency -> Data access latency
+response_latency -> Latency for the return path on a miss)
+mshrs -> Number of MSHRs (max outstanding requests)
+tgts_per_mshr -> Max number of accesses per MSHR

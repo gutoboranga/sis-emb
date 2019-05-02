@@ -1,0 +1,9 @@
+- Encontrar potência dissipada dos processadores
+- Escolher algoritmos
+- Modelar os processadores
+	- ARM [feito, a princípio]
+	- DSP
+	- Microcontrolador
+- Implementar os algoritmos
+- Rodar simulações
+- Fazer as 3 análises
